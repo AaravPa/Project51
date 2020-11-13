@@ -1,0 +1,44 @@
+.Header {
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.Fact {
+    justify-content: space-evenly; 
+    text-align: center; 
+    color: white;
+    font: message-box;
+}
+
+.Fact img {
+    border: 7px solid white;
+    border-radius: 50px;
+}
+
+.Menu { 
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-left: 462px;
+    margin-right: 462px;
+
+
+}
+
+
+body{
+    background-color : gray;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
